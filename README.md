@@ -1,1 +1,1 @@
-# Analisi-econometrica-in-R-di-indici-Nasdaq
+# Analisi-econometrica-in-R-di-Indici-Nasdaq
